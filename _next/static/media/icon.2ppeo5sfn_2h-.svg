@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28" fill="none">
+  <!-- PF Saathi brand glyph: a figure under a shelter. See BrandMark.tsx. -->
+  <rect width="28" height="28" rx="6" fill="#1b4a8f"/>
+  <g stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" fill="none">
+    <path d="M5.5 20.5 V14 C5.5 9 9.2 5.5 14 5.5 C18.8 5.5 22.5 9 22.5 14 V20.5"/>
+    <path d="M3.5 23 H24.5"/>
+  </g>
+  <circle cx="14" cy="12.8" r="2.2" fill="#ffffff"/>
+  <path d="M10 20.5 C10 17.7 11.8 16.3 14 16.3 C16.2 16.3 18 17.7 18 20.5" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+</svg>
